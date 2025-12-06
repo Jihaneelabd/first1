@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main(){
 
 
@@ -17,4 +17,4 @@ if (a>b){
 }
 else if (b>c){printf("%d",b);}
 else printf("%d",c);
-}*/
+}
